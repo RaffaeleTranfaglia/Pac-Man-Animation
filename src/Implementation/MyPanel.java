@@ -1,4 +1,4 @@
-package Loading;
+package Implementation;
 
 import java.awt.*;
 import java.util.Timer;

@@ -1,9 +1,9 @@
 package Main;
 
-import Loading.*;
+import Implementation.*;
 import javax.swing.*;
 
-public class LoadingMain
+public class Main
 {
     public static void main(String[] args)
     {
